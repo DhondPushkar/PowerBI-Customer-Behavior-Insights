@@ -146,8 +146,9 @@ Target **discount-sensitive** and **need-based** customers with **faster service
 **Pushkar Dhond**  
 Data Analyst | SQL | Power BI | Python | Data Visualization  
 📧 pushkardhond21@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pushkardhond) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/pushkardhond) | [GitHub]([https://github.com/DhondPushka])
 
 ---
 
 ⭐ *If you liked this project, consider giving it a star on GitHub!*
+
